@@ -86,7 +86,7 @@ class _Practice02State extends State<Practice02> {
                       ),
                       focusedBorder: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(30),
-                        borderSide: const BorderSide(color: Colors.blue),
+                        borderSide: const BorderSide(color: Colors.green),
                       ),
                     ),
                   ),
@@ -127,7 +127,7 @@ class _Practice02State extends State<Practice02> {
                   margin: const EdgeInsets.only(bottom: 12),
                   height: 50,
                   decoration: BoxDecoration(
-                    color: Colors.red,
+                    color: Colors.green,
                     borderRadius: BorderRadius.circular(25),
                   ),
                   alignment: Alignment.center,
